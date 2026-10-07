@@ -17,21 +17,3 @@
 [![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@alwaystushar.fyi)
 
 </div>
-
----
-
-## `01 / THE PERSON`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  UI/UX Designer                                               │
-│  who thinks in user flows.                                   │
-│                                                              │
-│  Product Designer                                             │
-│  who asks "why?" too much.                                   │
-│                                                              │
-│  Frontend Developer                                           │
-│  who refuses to ship ugly buttons.                           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
